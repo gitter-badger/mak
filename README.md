@@ -1,6 +1,8 @@
 <img src='logo.png' width=200 height=200 align='right'/>
 
 # Mak 
+
+[![Join the chat at https://gitter.im/inns/mak](https://badges.gitter.im/inns/mak.svg)](https://gitter.im/inns/mak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A piece of paper. 
 
 > All you do is sit down at a typewriter and bleed.  
